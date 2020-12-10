@@ -1,4 +1,7 @@
 # Programmation_web_M1
 
 # First HTML / CSS project
-Hoping it may give you ideas for your own websites
+
+Created by Zachary Allouche & Léo Maury
+
+Hoping it may give you some ideas for your own websites
